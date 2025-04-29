@@ -4,7 +4,7 @@ This is a classic Snake game implemented in Python using Object-Oriented Program
 ## 🚀 How to Set Up and Run the Game (Without `git clone`)
 
 1. **Download the source code**
-   - Go to the [GitHub repository](https://github.com/yourusername/snake_game).
+   - Go to the [GitHub repository](https://github.com/Priyanshi220404/Snake-Game).
    - Click the green **"Code"** button, then click **"Download ZIP"**.
    - Extract the ZIP file to your preferred location.
 
